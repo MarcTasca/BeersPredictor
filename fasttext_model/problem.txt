@@ -1,0 +1,1 @@
+here should have been a fasttext model pretrained, called my_little_mushroom.bin, but it is too large to be uploaded on github, more or less 1,14 GB
