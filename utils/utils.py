@@ -1,12 +1,4 @@
 # ---------- IMPORTS ----------
-! wget https://github.com/facebookresearch/fastText/archive/v0.9.2.zip
-! unzip v0.9.2.zip
-# for python bindings :
-! pip install /content/fastText-0.9.2
-import fasttext
-
-! pip install optuna
-import optuna
 
 import string
 import re
